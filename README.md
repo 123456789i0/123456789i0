@@ -66,7 +66,7 @@ KKU: Khon Kaen University
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="/cat.gif" />
 </div>
 
