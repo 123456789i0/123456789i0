@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=80&pause=1000&color=FFFFFF&center=left&vCenter=true&repeat=false&width=435&height=60&lines=Hello+World!" />
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&duration=5006&pause=500&color=FFD425&vCenter=true&repeat=false&width=550&height=40&lines=My+name+is+Petcharat+PH."/>
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=80&pause=1000&color=FFFFFF&center=left&vCenter=true&repeat=false&width=435&height=80&lines=Hello+World!" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=60&duration=5006&pause=500&color=FFD425&vCenter=true&repeat=false&width=550&height=60&lines=My+name+is+Petcharat+PH."/>
 
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=42&duration=5006&pause=500&color=2146FF&vCenter=true&width=500&height=30&lines=I+am+ITII+student.;I+am+studying+at+KKU.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=42&duration=5006&pause=500&color=2146FF&vCenter=true&width=500&height=40&lines=I+am+ITII+student.;I+am+studying+at+KKU.)](https://git.io/typing-svg)
 -----------------------
 ITII: Information Technology and Innovation Intelligence
 
@@ -67,7 +67,7 @@ KKU: Khon Kaen University
 ###
 
 <div align="center">
-  <img height="200" src="" />
+  <img height="200" src="/cat.gif" />
 </div>
 
 ###
