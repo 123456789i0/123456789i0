@@ -21,13 +21,13 @@ KKU: Khon Kaen University
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" alt="cplusplus logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css logo"  />
 </div>
 
@@ -35,13 +35,13 @@ KKU: Khon Kaen University
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="30" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
